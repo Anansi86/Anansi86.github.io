@@ -1,5 +1,5 @@
 # Anansi86.github.io
-[Shawn Staton Awesome Inc Introductory Repository]
+[Shawn Staton Awesome Inc bootcamp Repository]
 
 :dragon_face:
 [Stack Overflow](https://stackoverflow.com/users/10421609/shawn-a-staton)
