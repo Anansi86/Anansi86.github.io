@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+    font-family: 'Righteous', cursive;
+    color: darkblue;
+    background-color: orange;
+ }
+
+
+img { 
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
