@@ -16,4 +16,4 @@
 2. I was really excited to play and learn more about gitpod. I've only used VS Code editor as a program not in a browser.
 3. I love spiders! They are my spirit animal!
 
-![spider](/workspace/Anansi86.github.io/img/Spiders.jpeg)
+![spider](/img/Spiders.jpeg)
