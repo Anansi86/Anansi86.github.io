@@ -15,3 +15,5 @@
 1. Well yes and no. I thought it would be a little easier. just because I've made a blog before. It was not because of markdown was introduced to me and gitpages.
 2. I was really excited to play and learn more about gitpod. I've only used VS Code editor as a program not in a browser.
 3. I love spiders! They are my spirit animal!
+
+![spider](/workspace/Anansi86.github.io/img/Spiders.jpeg)
